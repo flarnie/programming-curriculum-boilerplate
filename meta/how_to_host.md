@@ -1,29 +1,30 @@
 # How To Host *{Your Coursename Here}*
 
 If you're looking to run a *{insert course name}* where you can offer options
-such as *{fill in option 1}, *{fill in option 2}, or *{fill in option 3}, you've
-come to the right place.
+such as *{fill in option 1}*, *{fill in option 2}*, or *{fill in option 3}*,
+you've come to the right place.
 
 ## Requirements
 
 To conduct this study group, it's best to have:
 
-    *{Your Topic} Lead(s) - Leaders who have experience *{fill in your topic}*
-    and who are willing to commit to plan and facilitate this study group:
+*{Your Topic}* Lead(s) - Leaders who have experience *{fill in your topic}*
+and who are willing to commit to plan and facilitate this study group:
 
-    **{Leader Role 1}** - Leader who facilitates *{fill in role 1 details}*
-    **{Leader Role 2}** - Leader who facilitates *{fill in role 2 details}*
-    **{Leader Role 3}** - Leader who facilitates *{fill in role 3 details}*
+ - **{Leader Role 1}** - Leader who facilitates *{fill in role 1 details}*
+ - **{Leader Role 2}** - Leader who facilitates *{fill in role 2 details}*
+ - **{Leader Role 3}** - Leader who facilitates *{fill in role 3 details}*
 
 ## Tools and Resources
-
- -  Online invitation (ex. [http://www.meetup.com/Women-Who-Code-SF/events/203354282/])
+ -  Online invitation ([Example from Algorithms Meetup Event][invitation-example])
  -  Location: An office space with enough rooms or space to host
  -  *{number of people or groups you expect}*
  -  White Boards
  -  Projector
  -  Speaker system
  -  Course Materials (this curriculum)
+
+[invitation-example]: http://www.meetup.com/Women-Who-Code-SF/events/203354282/
 
 ## Attendees
 
